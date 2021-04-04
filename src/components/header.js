@@ -8,7 +8,7 @@ const Header = ({siteTitle}) => (
         <div className={"container"}>
             <div className={"top-menu"}>
                 <div className={"logo"}>
-                    <Link to="/" title={"HiStaff"}>
+                    <Link to="https://crefati.com" title={"HiStaff"}>
                         <img alt={"Crefati Logo"} src={logo}/>
                     </Link>
                 </div>
