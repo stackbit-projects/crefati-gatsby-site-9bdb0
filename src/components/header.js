@@ -9,7 +9,7 @@ const Header = ({siteTitle}) => (
             <div className={"top-menu"}>
                 <div className={"logo"}>
                     <Link to="/" title={"HiStaff"}>
-                        <img alt={"Logo"} src={logo}/>
+                        <img alt={"Crefati Logo"} src={logo}/>
                     </Link>
                 </div>
 
